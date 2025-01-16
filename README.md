@@ -9,8 +9,8 @@
 <br>
 
 ## 📚 목차 
-1. [프로젝트 소개](#-Spring-Boot-최신-기술을-학습하고-실습하기-위한-저장소입니다.)
-2. [banner.txt](#-banner.txt-파일-추가)
+1. [프로젝트 소개](#-Spring-Boot-최신-기술을-학습하고-실습하기-위한-저장소입니다)
+2. [banner.txt](#-bannertxt-파일-추가)
 3. [build.gradle 의존성 추가 이력](#-buildgradle에-추가한-dependency)
 
 
