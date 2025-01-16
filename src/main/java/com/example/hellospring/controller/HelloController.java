@@ -17,6 +17,6 @@ public class HelloController {
 
     @GetMapping("/joowon22333")
     public String joowon() {
-        return "joowon Page";
+        return "joowon Page -- Hellodddd속도가 느리다. 속도가.. 왜 느릴까?";
     }
 }
